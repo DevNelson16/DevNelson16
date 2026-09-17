@@ -1,96 +1,41 @@
-<h1 align="center">👋 Olá, eu sou Nelson Geovetty Jaime</h1>
+### 👋 Olá, sou o Nelson Geovetty Jaime
 
-<h3 align="center">
-💻 Full Stack Developer | Web & Mobile Developer
-</h3>
+**Desenvolvedor Full Stack Júnior** | Lisboa, Portugal 🇵🇹
 
-<p align="center">
-Apaixonado por tecnologia, desenvolvimento de software e criação de soluções modernas.
-</p>
+Construo aplicações web completas — do backend à interface — com foco em código limpo e soluções reais.
 
----
+🎯 **Objetivo:** trabalhar como Full Stack Developer / Software Engineer, com ambição de atuar internacionalmente
+📚 Atualmente a aprofundar **React, Node.js e TypeScript**
 
-<div align="center">
-
-## 🚀 Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,php,mysql,cs,git,github,vscode" />
-
-</div>
+🔗 [Portfólio](https://devnelson.netlify.app) · [LinkedIn](https://linkedin.com/in/nelsongeovetty-jaime)
 
 ---
 
-<div align="center">
+### 🚀 Tecnologias
 
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevNelson16&show_icons=true&theme=radical" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNelson16&layout=compact&theme=radical" />
-
-</div>
+`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `NestJS` `C#` `PHP` `SQL Server` `MySQL` `Git`
 
 ---
 
-<div align="center">
+### 📌 Projetos em destaque
 
-## 🔥 GitHub Streak
+**🎟️ EventHub** — plataforma de gestão de eventos e venda de bilhetes
+Registo/login, listagem e pesquisa de eventos, carrinho, checkout, histórico de compras e painel administrativo.
+`PHP` `MySQL` `Bootstrap` `JavaScript`
+🔗 [Repositório](#) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNelson16&theme=radical" />
+**🚗 CarsOnline** — plataforma de venda de carros com busca por IA
+Frontend em React/TypeScript consumindo backend próprio (Fastify + Drizzle + OpenAI).
+`React` `TypeScript` `Node.js`
+🔗 [Repositório](#)
 
-</div>
-
----
-
-# 🚀 Sobre Mim
-
-- 🌍 Vivo em Portugal
-- 💻 Desenvolvedor Full Stack
-- 📚 Atualmente estudando React, Node.js e TypeScript
-- 🎯 Objetivo: Trabalhar internacionalmente como Software Engineer
-- 🚀 Construindo projetos reais e profissionais
-- ⚡ Sempre aprendendo novas tecnologias
+**💼 Portfólio Pessoal** — website pessoal apresentando projetos e percurso
+`React` `TypeScript` `Vite`
+🔗 [Ver site](https://devnelson.netlify.app)
 
 ---
 
-# 📌 Projetos em Destaque
+### 📊 Estatísticas GitHub
 
-## 🎵 Music Store Platform
-Sistema completo de loja online musical com:
-- Carrinho de compras
-- Login e autenticação
-- Painel Admin
-- Checkout
-- PHP + MySQL
-
----
-
-<div align="center">
-
-## 🌐 Conecte-se Comigo
-
-<a href="https://github.com/DevNelson16" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/devngj_16" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:Nelsongeovettyjaime@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@nelsongeovetty1611" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNelson16&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNelson16&layout=compact)
