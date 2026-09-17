@@ -1,60 +1,97 @@
-h1 alinhar="centro">👋 Olá, eu sou Nelson Geovetty Jaime</h1>
-<h3 alinhar="centro">
-💻 Desenvolvedor Full Stack | Desenvolvedor Web e Mobile
-</h3>
-<p alinhar="centro">
-Apaixonado por tecnologia, desenvolvimento de software e criação de soluções modernas.
-</p>
----
-<div alinhar="centro">
-##🚀 Tecnologias & Ferramentas
-<imagem src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,php,mysql,cs,git,github,vscode"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Nelson%20Geovetty%20Jaime&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack%20Júnior&descAlignY=65&descSize=18" />
+
+<a href="https://devnelson.netlify.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nelsongeovetty-jaime"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:teuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
----
-<div alinhar="centro">
-##📊 Estatísticas do GitHub
-<imagem largura="49%" src="https://github-readme-stats.vercel.app/api?username=DevNelson16&show_icons=true&theme=radical"/>
-<imagem largura="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNelson16&layout=compact&theme=radical"/>
+
+<br>
+
+### 👋 Sobre mim
+
+- 🌍 Baseado em **Lisboa, Portugal**
+- 💻 Construo aplicações **full stack**, do backend à interface
+- 📚 Atualmente a aprofundar **React, Node.js e TypeScript**
+- 🎯 Objetivo: atuar como **Full Stack Developer / Software Engineer**, com ambição internacional
+- ⚡ Formação em Web Development (Master D Portugal) + experiência profissional em Angola
+
+<br>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
----
-<div alinhar="centro">
-##🔥 Sequência do GitHub
-<imagem src="https://github-readme-streak-stats.herokuapp.com/?user=DevNelson16&theme=radical"/>
+
+<br>
+
+### 📌 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+
+**🎟️ [EventHub](https://github.com/DevNelson16/eventhub)**
+Plataforma de gestão de eventos e venda de bilhetes — registo, carrinho, checkout, histórico de compras e painel administrativo.
+`PHP` `MySQL` `Bootstrap` `JavaScript`
+
+</td>
+<td width="50%">
+
+**🚗 [CarsOnline](https://github.com/DevNelson16/carsonline)**
+Venda de carros com busca por IA — frontend React/TypeScript consumindo backend próprio (Fastify + Drizzle + OpenAI).
+`React` `TypeScript` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💼 [Portfólio Pessoal](https://devnelson.netlify.app)**
+Website pessoal com os meus projetos e percurso profissional.
+`React` `TypeScript` `Vite`
+
+</td>
+<td width="50%">
+
+**🛒 Sistema de Supermercado**
+Aplicação desktop de gestão de vendas, construída do zero.
+`C#` `Windows Forms` `SQL Server`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevNelson16&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNelson16&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNelson16&theme=tokyonight&hide_border=true" />
+
 </div>
----
-#🚀 Sobre Mim
--🌍 Vivo em Portugal
--💻 Desenvolvedor Full Stack
--📚 Atualmente estudando React, Node.js e TypeScript
--🎯 Objetivo: Trabalhar internacionalmente como Engenheiro de Software
--🚀 Construindo projetos reais e profissionais
--⚡ Sempre aprendendo novas tecnologias
----
-#📌 Projetos em destaque
-##🎵 Plataforma de Loja de Música
-Sistema completo de loja online musical com:
--Carrinho de compras
--Entrar e fazer
--Painel Admin
--Confira
--PHP + MySQL
----
-<div alinhar="centro">
-##🌐 Conecte-se Comigo
-<um href="https://github.com/DevNelson16" alvo="_em branco">
-<imagem src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</um>
-<um href="https://instagram.com/devngj_16" alvo="_em branco">
-<imagem src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</um>
-<um href="email para:Nelsongeovettyjaime@gmail.com">
-<imagem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</um>
-<um href="https://youtube.com/@nelsongeovetty1611" alvo="_em branco">
-<imagem src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</um>
-</div>
----
-<div alinhar="centro">
-<imagem src="https://capsule-render.vercel.app/api?type=waveng&color=0:0f0c29,50:302b63,100:24243e&height=120&seitaion=rodapé"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DevNelson16&color=blueviolet&style=flat-square)
+
 </div>
